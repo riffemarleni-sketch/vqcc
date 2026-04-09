@@ -64,11 +64,12 @@
             </div>
 
             <div class="popup-note">
+              <p>CHÚC MỪNG BẠN ĐÃ QUAY TRÚNG ƯU ĐÃI ĐẶC BIỆT</p>
               {{ currentPrize.label }}
             </div>
 
             <div class="popup-instruction">
-              Chụp ảnh và gửi cho Giám Đốc để được nhận quà
+              VUI LÒNG LIÊN HỆ GIÁM ĐỐC ĐỂ ĐƯỢC HƯỚNG DẪN NHẬN THƯỞNG
             </div>
           </div>
         </div>
@@ -680,6 +681,7 @@ canvas#wheel {
   align-items: center;
   padding: 18px 20px 28px;
   margin-top: -20px;
+  font-family: 'Inter', sans-serif;
 }
 
 .popup-product-box {
@@ -704,7 +706,7 @@ canvas#wheel {
   text-align: center;
   color: #e3277a;
   font-weight: 900;
-  font-size: 28px;
+  font-size: 24px;
   line-height: 1.25;
   margin-bottom: 24px;
 }
