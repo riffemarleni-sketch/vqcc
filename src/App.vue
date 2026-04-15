@@ -105,14 +105,14 @@ const RESULT_KEY = 'vxcc-wheel-result'
 
 const segments = [
   { label: 'Voucher 5.000.000 Vnd', img: '/img/vxcc/voucher.png', color: '#fce4ec', textColor: '#c9184a' },
-  { label: 'Voucher 25.000.000 Vnd', img: '/img/vxcc/voucher.png', color: '#fff0f3', textColor: '#e91e63' },
+  { label: 'Voucher ĐẶC BIỆT', img: '/img/vxcc/voucher.png', color: '#fff0f3', textColor: '#e91e63' },
   { label: 'Voucher 15.000.000 Vnd', img: '/img/vxcc/voucher.png', color: '#fce4ec', textColor: '#c9184a' },
   { label: 'Voucher 10.000.000 Vnd', img: '/img/vxcc/voucher.png', color: '#fff0f3', textColor: '#e91e63' },
   { label: 'Voucher 35.000.000 Vnd', img: '/img/vxcc/voucher.png', color: '#fce4ec', textColor: '#c9184a' },
   { label: 'Voucher 45.000.000 Vnd', img: '/img/vxcc/voucher.png', color: '#fff0f3', textColor: '#e91e63' }
 ]
 
-const FIXED_LABEL = 'Voucher 15.000.000 Vnd'
+const FIXED_LABEL = 'Voucher ĐẶC BIỆT'
 
 const n = segments.length
 const arcAngle = (2 * Math.PI) / n
