@@ -65,7 +65,6 @@
 
             <div class="popup-note">
               <p>CHÚC MỪNG BẠN ĐÃ QUAY TRÚNG ƯU ĐÃI ĐẶC BIỆT</p>
-              {{ currentPrize.label }}
             </div>
 
             <div class="popup-instruction">
